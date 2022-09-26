@@ -1,0 +1,10 @@
+
+ans4.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <.text>:
+   0:	b8 91 c9 09 7e       	mov    $0x7e09c991,%eax
+   5:	68 be 8d 04 08       	pushq  $0x8048dbe
+   a:	c3                   	retq   
