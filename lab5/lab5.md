@@ -70,7 +70,7 @@ int getIndex(uint64_t addr, int s, int b)
 
 完成后编译出csim，运行test-csim，27分全通过
 
-![1](img\1.png)
+![1](img/1.png)
 
 
 
